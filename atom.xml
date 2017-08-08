@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>懈怠的个人博客</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-08-08T06:38:48.952Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>依偎漫雨</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一点点的开始</title>
+    <link href="http://yoursite.com/2017/08/08/ab1/"/>
+    <id>http://yoursite.com/2017/08/08/ab1/</id>
+    <published>2017-08-08T14:33:47.000Z</published>
+    <updated>2017-08-08T06:38:48.952Z</updated>
+    
+    <content type="html"><![CDATA[<p> 你必须培养些爱好，不要空洞遥远的目标，而是实在甚至庸俗的吃喝拉撒。<br> 你必须一觉醒来，清楚自己能干什么。去楼下最热闹的面馆去吃早饭，去给窗台上的盆栽浇水，<br> 去追一集刚更新的电视剧，去找一个知心老友唠喷。你必须积攒这些微小的期待和快乐，才不会被遥不可及的梦和无法掌控的爱给拖垮。</p>
+ <a id="more"></a>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt; 你必须培养些爱好，不要空洞遥远的目标，而是实在甚至庸俗的吃喝拉撒。&lt;br&gt; 你必须一觉醒来，清楚自己能干什么。去楼下最热闹的面馆去吃早饭，去给窗台上的盆栽浇水，&lt;br&gt; 去追一集刚更新的电视剧，去找一个知心老友唠喷。你必须积攒这些微小的期待和快乐，才不会被遥不可及的梦和无法掌控的爱给拖垮。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="about" scheme="http://yoursite.com/categories/about/"/>
+    
+    
+      <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="github" scheme="http://yoursite.com/tags/github/"/>
+    
+      <category term="about" scheme="http://yoursite.com/tags/about/"/>
+    
+  </entry>
+  
+</feed>
