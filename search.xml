@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[我现在的状态]]></title>
+    <url>%2F2017%2F08%2F09%2F%E6%88%91%E7%8E%B0%E5%9C%A8%E7%9A%84%E7%8A%B6%E6%80%81%2F</url>
+    <content type="text"><![CDATA[我现在先梳理梳理我的小目标嘛,比如赚它一个亿，你要问我是谁说的我，无人不知，无人不晓的王健林，和马大大并肩的存在。。。 现在我感觉自己有些缺点要改 做事不太认真，严谨，仔细，不注意效率的提高 不能说到做到，要懂得自尊自爱，关心一切美好的事情 学习上答应别人的努力学习，然后开发一个小游戏，怎么实现呀。 原定的学习英语和锻炼身体又要推迟多久。 总有挥之不去，呼之即来的人留在你的心里。 你是多么多么的悲哀呀！！！ markdown 齐文式和缩进式的你喜欢哪一种]]></content>
+      <categories>
+        <category>about</category>
+      </categories>
+      <tags>
+        <tag>生活情感</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[删除github的存储库]]></title>
+    <url>%2F2017%2F08%2F09%2F%E5%88%A0%E9%99%A4%E5%AD%98%E5%82%A8%E5%BA%93%2F</url>
+    <content type="text"><![CDATA[这天找了好久没找到删除存储库的资料,正好帮大家解答下,顺便分享一下删除github的文章打开自己的存储库,点击设置(setting) 然后滑到最后一行点击Delete存储库 是不是很简单呀呀！！]]></content>
+      <categories>
+        <category>web前端</category>
+      </categories>
+      <tags>
+        <tag>github</tag>
+        <tag>web</tag>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[一点点的开始]]></title>
     <url>%2F2017%2F08%2F08%2Fab1%2F</url>
     <content type="text"><![CDATA[你必须培养些爱好，不要空洞遥远的目标，而是实在甚至庸俗的吃喝拉撒。 你必须一觉醒来，清楚自己能干什么。去楼下最热闹的面馆去吃早饭，去给窗台上的盆栽浇水， 去追一集刚更新的电视剧，去找一个知心老友唠喷。你必须积攒这些微小的期待和快乐，才不会被遥不可及的梦和无法掌控的爱给拖垮。]]></content>
@@ -8,10 +32,7 @@
         <category>about</category>
       </categories>
       <tags>
-        <tag>npm</tag>
-        <tag>hexo</tag>
-        <tag>github</tag>
-        <tag>about</tag>
+        <tag>生活情感</tag>
       </tags>
   </entry>
 </search>

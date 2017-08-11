@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-08T06:38:48.952Z</updated>
+  <updated>2017-08-10T13:17:03.610Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,77 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>我现在的状态</title>
+    <link href="http://yoursite.com/2017/08/09/%E6%88%91%E7%8E%B0%E5%9C%A8%E7%9A%84%E7%8A%B6%E6%80%81/"/>
+    <id>http://yoursite.com/2017/08/09/我现在的状态/</id>
+    <published>2017-08-09T13:15:47.000Z</published>
+    <updated>2017-08-10T13:17:03.610Z</updated>
+    
+    <content type="html"><![CDATA[<p> 我现在先梳理梳理我的小目标嘛,比如赚它一个亿，你要问我是谁说的我，无人不知，无人不晓的王<br>健林，和马大大并肩的存在。。。</p>
+<p>现在我感觉自己有些缺点要改<br> <a id="more"></a></p>
+<ol>
+<li>做事不太认真，严谨，仔细，不注意效率的提高</li>
+<li>不能说到做到，要懂得自尊自爱，关心一切美好的事情</li>
+<li>学习上答应别人的努力学习，然后开发一个小游戏，怎么实现呀。</li>
+<li>原定的学习英语和锻炼身体又要推迟多久。</li>
+<li>总有挥之不去，呼之即来的人留在你的心里。</li>
+</ol>
+<p>你是多么多么的悲哀呀！！！</p>
+<p>markdown 齐文式和缩进式的你喜欢哪一种</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt; 我现在先梳理梳理我的小目标嘛,比如赚它一个亿，你要问我是谁说的我，无人不知，无人不晓的王&lt;br&gt;健林，和马大大并肩的存在。。。&lt;/p&gt;
+&lt;p&gt;现在我感觉自己有些缺点要改&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="about" scheme="http://yoursite.com/categories/about/"/>
+    
+    
+      <category term="生活情感" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB%E6%83%85%E6%84%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>删除github的存储库</title>
+    <link href="http://yoursite.com/2017/08/09/%E5%88%A0%E9%99%A4%E5%AD%98%E5%82%A8%E5%BA%93/"/>
+    <id>http://yoursite.com/2017/08/09/删除存储库/</id>
+    <published>2017-08-09T03:27:22.000Z</published>
+    <updated>2017-08-09T15:38:00.376Z</updated>
+    
+    <content type="html"><![CDATA[<p>这天找了好久没找到删除存储库的资料,正好帮大家解答下,顺便分享一下删除github的文章<br>打开自己的存储库,点击设置(setting)</p>
+<p><img src="/2017/08/09/删除存储库/git1.png" alt="git1"></p>
+<p>然后滑到最后一行点击Delete存储库<br><a id="more"></a><br><img src="/2017/08/09/删除存储库/git2.png" alt="git1"></p>
+<p>是不是很简单呀呀！！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这天找了好久没找到删除存储库的资料,正好帮大家解答下,顺便分享一下删除github的文章&lt;br&gt;打开自己的存储库,点击设置(setting)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2017/08/09/删除存储库/git1.png&quot; alt=&quot;git1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;然后滑到最后一行点击Delete存储库&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="web前端" scheme="http://yoursite.com/categories/web%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="github" scheme="http://yoursite.com/tags/github/"/>
+    
+      <category term="web" scheme="http://yoursite.com/tags/web/"/>
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>一点点的开始</title>
     <link href="http://yoursite.com/2017/08/08/ab1/"/>
     <id>http://yoursite.com/2017/08/08/ab1/</id>
     <published>2017-08-08T14:33:47.000Z</published>
-    <updated>2017-08-08T06:38:48.952Z</updated>
+    <updated>2017-08-09T14:27:06.175Z</updated>
     
     <content type="html"><![CDATA[<p> 你必须培养些爱好，不要空洞遥远的目标，而是实在甚至庸俗的吃喝拉撒。<br> 你必须一觉醒来，清楚自己能干什么。去楼下最热闹的面馆去吃早饭，去给窗台上的盆栽浇水，<br> 去追一集刚更新的电视剧，去找一个知心老友唠喷。你必须积攒这些微小的期待和快乐，才不会被遥不可及的梦和无法掌控的爱给拖垮。</p>
  <a id="more"></a>
@@ -35,13 +101,7 @@
       <category term="about" scheme="http://yoursite.com/categories/about/"/>
     
     
-      <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
-    
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
-    
-      <category term="github" scheme="http://yoursite.com/tags/github/"/>
-    
-      <category term="about" scheme="http://yoursite.com/tags/about/"/>
+      <category term="生活情感" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB%E6%83%85%E6%84%9F/"/>
     
   </entry>
   
