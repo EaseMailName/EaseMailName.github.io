@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-10T13:17:03.610Z</updated>
+  <updated>2017-08-12T13:46:15.246Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,14 +16,83 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>transform的一些应用</title>
+    <link href="http://yoursite.com/2017/08/12/transform%E7%9A%84%E4%B8%80%E4%BA%9B%E5%BA%94%E7%94%A8/"/>
+    <id>http://yoursite.com/2017/08/12/transform的一些应用/</id>
+    <published>2017-08-12T01:57:37.000Z</published>
+    <updated>2017-08-12T13:46:15.246Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是个通过html5+css3做的小玩意，勿喜勿喷</p>
+<p>1、先介绍一下CSS3元素的具体作用<br>设置元素的原始视图<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">perspective: 500px;</div><div class="line">-webkit-perspective: 500px;</div></pre></td></tr></table></figure></p>
+<p>2、伪元素的集合做法,单引号双引号都可以，单引号兼容性更强</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">.after        在某某元素后插入元素</div><div class="line">.before       在某某元素之前插入元素</div></pre></td></tr></table></figure>
+<a id="more"></a>
+<p>3:鼠标事件<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">pointer-events:none   鼠标事件停止运行</div></pre></td></tr></table></figure></p>
+<p>4 transform事件的各种作用<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">transform:rotates(30deg)      旋转30度</div><div class="line">transform:skew(x,y)           斜切</div><div class="line">transform:scale(x,y)          定义缩放的比例</div><div class="line">transform:translate(x,y)      移动x,y轴</div><div class="line">transform-style: preserve-3d  定义3D转换</div></pre></td></tr></table></figure></p>
+<p>5 默认就是所看舞台或元素的中心。<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">perspective-origin: 25% 75%;</div></pre></td></tr></table></figure></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这是个通过html5+css3做的小玩意，勿喜勿喷&lt;/p&gt;
+&lt;p&gt;1、先介绍一下CSS3元素的具体作用&lt;br&gt;设置元素的原始视图&lt;br&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;perspective: 500px;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;-webkit-perspective: 500px;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;2、伪元素的集合做法,单引号双引号都可以，单引号兼容性更强&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;.after        在某某元素后插入元素&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;.before       在某某元素之前插入元素&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+      <category term="web前端" scheme="http://yoursite.com/categories/web%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="html5" scheme="http://yoursite.com/tags/html5/"/>
+    
+      <category term="css3" scheme="http://yoursite.com/tags/css3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo paging</title>
+    <link href="http://yoursite.com/2017/08/11/hexo-paging/"/>
+    <id>http://yoursite.com/2017/08/11/hexo-paging/</id>
+    <published>2017-08-11T06:32:54.000Z</published>
+    <updated>2017-08-11T07:26:51.983Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天找了半天配置hexo的分页插件，终于被我找到了。<br>步骤是这样的，先打开主题的配置文件_config.yml<br>在里面查找 index_generator:</p>
+<p>配置分页插件</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">index_generator:</div><div class="line">path: &apos;&apos;</div><div class="line">per_page: 10 主页页面默认10篇文章,如果值为0不分页</div><div class="line">order_by: -date</div></pre></td></tr></table></figure>
+<a id="more"></a>
+<p>配置归档界面</p>
+ <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">archive_generator:</div><div class="line">per_page: 5 归档页面默认10篇文章标题，如果值为0不分页</div><div class="line">yearly: true 生成年视图</div><div class="line">monthly: true 生成月视图</div></pre></td></tr></table></figure>
+<p> 配置标签界面<br> <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">tag_generator:</div><div class="line">per_page: 10 标签页面默认10篇文章，如果值为0不分页</div><div class="line">category_generator:</div><div class="line">per_page: 10 分类页面默认10篇文章，如果值为0不分页</div></pre></td></tr></table></figure></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天找了半天配置hexo的分页插件，终于被我找到了。&lt;br&gt;步骤是这样的，先打开主题的配置文件_config.yml&lt;br&gt;在里面查找 index_generator:&lt;/p&gt;
+&lt;p&gt;配置分页插件&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;4&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;index_generator:&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;path: &amp;apos;&amp;apos;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;per_page: 10 主页页面默认10篇文章,如果值为0不分页&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;order_by: -date&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+      <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
+    
+    
+      <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
+    
+      <category term="github" scheme="http://yoursite.com/tags/github/"/>
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>我现在的状态</title>
     <link href="http://yoursite.com/2017/08/09/%E6%88%91%E7%8E%B0%E5%9C%A8%E7%9A%84%E7%8A%B6%E6%80%81/"/>
     <id>http://yoursite.com/2017/08/09/我现在的状态/</id>
     <published>2017-08-09T13:15:47.000Z</published>
-    <updated>2017-08-10T13:17:03.610Z</updated>
+    <updated>2017-08-11T07:24:10.773Z</updated>
     
-    <content type="html"><![CDATA[<p> 我现在先梳理梳理我的小目标嘛,比如赚它一个亿，你要问我是谁说的我，无人不知，无人不晓的王<br>健林，和马大大并肩的存在。。。</p>
-<p>现在我感觉自己有些缺点要改<br> <a id="more"></a></p>
+    <content type="html"><![CDATA[<p> 我现在先梳理梳理我的小目标嘛,比如赚它一个亿，你要问我是谁说的我，无人不知，无人不晓的王<br>健林，和马大大并肩的存在。。。<br>现在我感觉自己有些缺点要改 <a id="more"></a></p>
 <ol>
 <li>做事不太认真，严谨，仔细，不注意效率的提高</li>
 <li>不能说到做到，要懂得自尊自爱，关心一切美好的事情</li>
@@ -31,14 +100,12 @@
 <li>原定的学习英语和锻炼身体又要推迟多久。</li>
 <li>总有挥之不去，呼之即来的人留在你的心里。</li>
 </ol>
-<p>你是多么多么的悲哀呀！！！</p>
-<p>markdown 齐文式和缩进式的你喜欢哪一种</p>
+<p>你是多么多么的悲哀呀！！！<br>markdown 齐文式和缩进式的你喜欢哪一种</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt; 我现在先梳理梳理我的小目标嘛,比如赚它一个亿，你要问我是谁说的我，无人不知，无人不晓的王&lt;br&gt;健林，和马大大并肩的存在。。。&lt;/p&gt;
-&lt;p&gt;现在我感觉自己有些缺点要改&lt;br&gt;&lt;/p&gt;
+      &lt;p&gt; 我现在先梳理梳理我的小目标嘛,比如赚它一个亿，你要问我是谁说的我，无人不知，无人不晓的王&lt;br&gt;健林，和马大大并肩的存在。。。&lt;br&gt;现在我感觉自己有些缺点要改&lt;/p&gt;
     
     </summary>
     
@@ -54,19 +121,14 @@
     <link href="http://yoursite.com/2017/08/09/%E5%88%A0%E9%99%A4%E5%AD%98%E5%82%A8%E5%BA%93/"/>
     <id>http://yoursite.com/2017/08/09/删除存储库/</id>
     <published>2017-08-09T03:27:22.000Z</published>
-    <updated>2017-08-09T15:38:00.376Z</updated>
+    <updated>2017-08-11T07:23:16.654Z</updated>
     
-    <content type="html"><![CDATA[<p>这天找了好久没找到删除存储库的资料,正好帮大家解答下,顺便分享一下删除github的文章<br>打开自己的存储库,点击设置(setting)</p>
-<p><img src="/2017/08/09/删除存储库/git1.png" alt="git1"></p>
-<p>然后滑到最后一行点击Delete存储库<br><a id="more"></a><br><img src="/2017/08/09/删除存储库/git2.png" alt="git1"></p>
-<p>是不是很简单呀呀！！</p>
+    <content type="html"><![CDATA[<p>这天找了好久没找到删除存储库的资料,正好帮大家解答下,顺便分享一下删除github的文章<br>打开自己的存储库,点击设置(setting)<br><img src="/2017/08/09/删除存储库/git1.png" alt="git1"><br>然后滑到最后一行点击Delete存储库<br><a id="more"></a><br><img src="/2017/08/09/删除存储库/git2.png" alt="git1"><br>是不是很简单呀呀！！</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;这天找了好久没找到删除存储库的资料,正好帮大家解答下,顺便分享一下删除github的文章&lt;br&gt;打开自己的存储库,点击设置(setting)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/2017/08/09/删除存储库/git1.png&quot; alt=&quot;git1&quot;&gt;&lt;/p&gt;
-&lt;p&gt;然后滑到最后一行点击Delete存储库&lt;br&gt;&lt;/p&gt;
+      &lt;p&gt;这天找了好久没找到删除存储库的资料,正好帮大家解答下,顺便分享一下删除github的文章&lt;br&gt;打开自己的存储库,点击设置(setting)&lt;br&gt;&lt;img src=&quot;/2017/08/09/删除存储库/git1.png&quot; alt=&quot;git1&quot;&gt;&lt;br&gt;然后滑到最后一行点击Delete存储库&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
@@ -75,9 +137,9 @@
     
       <category term="github" scheme="http://yoursite.com/tags/github/"/>
     
-      <category term="web" scheme="http://yoursite.com/tags/web/"/>
-    
       <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="web" scheme="http://yoursite.com/tags/web/"/>
     
   </entry>
   

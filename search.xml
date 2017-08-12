@@ -1,9 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[transform的一些应用]]></title>
+    <url>%2F2017%2F08%2F12%2Ftransform%E7%9A%84%E4%B8%80%E4%BA%9B%E5%BA%94%E7%94%A8%2F</url>
+    <content type="text"><![CDATA[这是个通过html5+css3做的小玩意，勿喜勿喷 1、先介绍一下CSS3元素的具体作用设置元素的原始视图12perspective: 500px;-webkit-perspective: 500px; 2、伪元素的集合做法,单引号双引号都可以，单引号兼容性更强 12.after 在某某元素后插入元素.before 在某某元素之前插入元素 3:鼠标事件1pointer-events:none 鼠标事件停止运行 4 transform事件的各种作用12345transform:rotates(30deg) 旋转30度transform:skew(x,y) 斜切transform:scale(x,y) 定义缩放的比例transform:translate(x,y) 移动x,y轴transform-style: preserve-3d 定义3D转换 5 默认就是所看舞台或元素的中心。1perspective-origin: 25% 75%;]]></content>
+      <categories>
+        <category>web前端</category>
+      </categories>
+      <tags>
+        <tag>html5</tag>
+        <tag>css3</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[hexo paging]]></title>
+    <url>%2F2017%2F08%2F11%2Fhexo-paging%2F</url>
+    <content type="text"><![CDATA[今天找了半天配置hexo的分页插件，终于被我找到了。步骤是这样的，先打开主题的配置文件_config.yml在里面查找 index_generator: 配置分页插件 1234index_generator:path: &apos;&apos;per_page: 10 主页页面默认10篇文章,如果值为0不分页order_by: -date 配置归档界面 1234archive_generator:per_page: 5 归档页面默认10篇文章标题，如果值为0不分页yearly: true 生成年视图monthly: true 生成月视图 配置标签界面 1234tag_generator:per_page: 10 标签页面默认10篇文章，如果值为0不分页category_generator:per_page: 10 分类页面默认10篇文章，如果值为0不分页]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>npm</tag>
+        <tag>github</tag>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[我现在的状态]]></title>
     <url>%2F2017%2F08%2F09%2F%E6%88%91%E7%8E%B0%E5%9C%A8%E7%9A%84%E7%8A%B6%E6%80%81%2F</url>
-    <content type="text"><![CDATA[我现在先梳理梳理我的小目标嘛,比如赚它一个亿，你要问我是谁说的我，无人不知，无人不晓的王健林，和马大大并肩的存在。。。 现在我感觉自己有些缺点要改 做事不太认真，严谨，仔细，不注意效率的提高 不能说到做到，要懂得自尊自爱，关心一切美好的事情 学习上答应别人的努力学习，然后开发一个小游戏，怎么实现呀。 原定的学习英语和锻炼身体又要推迟多久。 总有挥之不去，呼之即来的人留在你的心里。 你是多么多么的悲哀呀！！！ markdown 齐文式和缩进式的你喜欢哪一种]]></content>
+    <content type="text"><![CDATA[我现在先梳理梳理我的小目标嘛,比如赚它一个亿，你要问我是谁说的我，无人不知，无人不晓的王健林，和马大大并肩的存在。。。现在我感觉自己有些缺点要改 做事不太认真，严谨，仔细，不注意效率的提高 不能说到做到，要懂得自尊自爱，关心一切美好的事情 学习上答应别人的努力学习，然后开发一个小游戏，怎么实现呀。 原定的学习英语和锻炼身体又要推迟多久。 总有挥之不去，呼之即来的人留在你的心里。 你是多么多么的悲哀呀！！！markdown 齐文式和缩进式的你喜欢哪一种]]></content>
       <categories>
         <category>about</category>
       </categories>
@@ -14,14 +39,14 @@
   <entry>
     <title><![CDATA[删除github的存储库]]></title>
     <url>%2F2017%2F08%2F09%2F%E5%88%A0%E9%99%A4%E5%AD%98%E5%82%A8%E5%BA%93%2F</url>
-    <content type="text"><![CDATA[这天找了好久没找到删除存储库的资料,正好帮大家解答下,顺便分享一下删除github的文章打开自己的存储库,点击设置(setting) 然后滑到最后一行点击Delete存储库 是不是很简单呀呀！！]]></content>
+    <content type="text"><![CDATA[这天找了好久没找到删除存储库的资料,正好帮大家解答下,顺便分享一下删除github的文章打开自己的存储库,点击设置(setting)然后滑到最后一行点击Delete存储库是不是很简单呀呀！！]]></content>
       <categories>
         <category>web前端</category>
       </categories>
       <tags>
         <tag>github</tag>
-        <tag>web</tag>
         <tag>hexo</tag>
+        <tag>web</tag>
       </tags>
   </entry>
   <entry>
