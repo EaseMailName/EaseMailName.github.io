@@ -15,8 +15,8 @@
   </entry>
   <entry>
     <title><![CDATA[长沙之行]]></title>
-    <url>%2F2017%2F09%2F01%2F%E9%95%BF%E6%B2%99%E4%B9%8B%E8%A1%8C%20-%20%E5%89%AF%E6%9C%AC%2F</url>
-    <content type="text"><![CDATA[这几天长沙之旅的行动。。。乘着送妹妹上学的时候，出去转了转，长沙坐地铁坐了40分钟才到了梅溪湖西，真的是大的离谱，就2个景点的人流量大很多，这两个就是城市的中心吧。这几天看到了街头流浪的艺人不绝于耳,关于他们与吉他的故事，我听了很久，看到了长沙的繁华以及消费的升级。。不知道以后我的工资够不够用。。。]]></content>
+    <url>%2F2017%2F09%2F01%2F%E6%A0%A1%E5%9B%AD%2F</url>
+    <content type="text"><![CDATA[这次社团招生并没有成功，你还需加油 1，加强与同学的沟通，社团需要所有人的齐心协力才能变得更强大2，加强与老师领导的交流，告诉他们我们的需求与愿望3，招新的准备工作没做好，首先要开展一次全员会议，然后分工安排任务，落实每个人的工作区域，科技产品没有准备妥当，海报，传单没有准备，没有真正让其他同学认识我们社团究竟是做啥的，继续加油。。。]]></content>
       <categories>
         <category>生活情感</category>
       </categories>
@@ -76,6 +76,17 @@
       </tags>
   </entry>
   <entry>
+    <title><![CDATA[一点点的开始]]></title>
+    <url>%2F2017%2F08%2F08%2Fab1%2F</url>
+    <content type="text"><![CDATA[你必须培养些爱好，不要空洞遥远的目标，而是实在甚至庸俗的吃喝拉撒。 你必须一觉醒来，清楚自己能干什么。去楼下最热闹的面馆去吃早饭，去给窗台上的盆栽浇水， 去追一集刚更新的电视剧，去找一个知心老友唠喷。你必须积攒这些微小的期待和快乐，才不会被遥不可及的梦和无法掌控的爱给拖垮。]]></content>
+      <categories>
+        <category>about</category>
+      </categories>
+      <tags>
+        <tag>生活情感</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[github的分布式系统]]></title>
     <url>%2F2017%2F08%2F08%2Fgithub%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%2F</url>
     <content type="text"><![CDATA[Git是什么？Git是目前世界上最先进的分布式版本控制系统（没有之一）。 git的各种命令工具 1 设置你的邮箱和账号12$ git config --global user.name &quot;Your Name&quot;$ git config --global user.email &quot;email@example.com&quot; 2 创建本地仓库12345678$ mkdir learngit$ cd learngit$ pwd/Users/michael/learngit#通过git init命令把这个目录变成Git可以管理的仓库：$ git initInitialized empty Git repository in /Users/michael/learngit/.git/ 3 ls-ah查看隐藏的目录1ls -ah 4 git status命令可以让我们时刻掌握仓库当前的状态,git diff查看具体修改说明内容123456789$ git status# On branch master# Changes not staged for commit:# (use &quot;git add &lt;file&gt;...&quot; to update what will be committed)# (use &quot;git checkout -- &lt;file&gt;...&quot; to discard changes in working directory)## modified: readme.txt#no changes added to commit (use &quot;git add&quot; and/or &quot;git commit -a&quot;) 5 git add 告诉我们提交修改6 git log 查看历史记录7 git log –pretty=oneline 缩减信息量8 git reset –hard 3628164 回到3622814的版本号]]></content>
@@ -85,17 +96,6 @@
       <tags>
         <tag>github</tag>
         <tag>git</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[一点点的开始]]></title>
-    <url>%2F2017%2F08%2F08%2Fab1%2F</url>
-    <content type="text"><![CDATA[你必须培养些爱好，不要空洞遥远的目标，而是实在甚至庸俗的吃喝拉撒。 你必须一觉醒来，清楚自己能干什么。去楼下最热闹的面馆去吃早饭，去给窗台上的盆栽浇水， 去追一集刚更新的电视剧，去找一个知心老友唠喷。你必须积攒这些微小的期待和快乐，才不会被遥不可及的梦和无法掌控的爱给拖垮。]]></content>
-      <categories>
-        <category>about</category>
-      </categories>
-      <tags>
-        <tag>生活情感</tag>
       </tags>
   </entry>
 </search>
