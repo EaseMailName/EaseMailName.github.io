@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-10-22T16:20:04.270Z</updated>
+  <updated>2017-10-26T02:09:45.377Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,36 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>长沙之行</title>
+    <title>鸡汤</title>
+    <link href="http://yoursite.com/2017/10/26/%E9%95%BF%E6%B2%99%E4%B9%8B%E8%A1%8C%20-%20%E5%89%AF%E6%9C%AC/"/>
+    <id>http://yoursite.com/2017/10/26/长沙之行 - 副本/</id>
+    <published>2017-10-26T01:44:59.000Z</published>
+    <updated>2017-10-26T02:09:45.377Z</updated>
+    
+    <content type="html"><![CDATA[<p>看多了视频教程总以为自己会的挺多的，但其实一无所知<br>你现在的责任巨大，有个协会需要你去努力管理，做事还是不太沉稳，<br>说话语速太快，不能详细阐明你的观点，以及引导别人去学习</p>
+<p>###对于以后自己学习的看法<br>1：不要看太多娱乐性的视频。<br>2：多做个一些实用性的视频教学。<br>3：在迷茫中不要忘记提升自己。<br>4：多出去走走不要狭隘了自己的视眼。<br>5:正确的认知自己的感情，既然喜欢就义无反顾网上爬吧</p>
+<p><img src="/2017/10/26/长沙之行 - 副本/jp2.jpg" alt=""></p>
+<p>希望每天都是好心情</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;看多了视频教程总以为自己会的挺多的，但其实一无所知&lt;br&gt;你现在的责任巨大，有个协会需要你去努力管理，做事还是不太沉稳，&lt;br&gt;说话语速太快，不能详细阐明你的观点，以及引导别人去学习&lt;/p&gt;
+&lt;p&gt;###对于以后自己学习的看法&lt;br&gt;1：不要看太多娱乐性的视频。&lt;br&gt;2：
+    
+    </summary>
+    
+      <category term="生活情感" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB%E6%83%85%E6%84%9F/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>校园</title>
     <link href="http://yoursite.com/2017/10/20/%E6%A0%A1%E5%9B%AD/"/>
     <id>http://yoursite.com/2017/10/20/校园/</id>
     <published>2017-10-20T12:58:19.000Z</published>
-    <updated>2017-10-22T16:20:04.270Z</updated>
+    <updated>2017-10-26T02:09:45.299Z</updated>
     
     <content type="html"><![CDATA[<p>这次社团招生并没有成功，你还需加油</p>
 <p>1，加强与同学的沟通，社团需要所有人的齐心协力才能变得更强大<br>2，加强与老师领导的交流，告诉他们我们的需求与愿望<br>3，招新的准备工作没做好，首先要开展一次全员会议，然后分工安排任务，落实<br>每个人的工作区域，科技产品没有准备妥当，海报，传单没有准备，没有真正让其他同学<br>认识我们社团究竟是做啥的，继续加油。。。</p>
@@ -37,12 +62,6 @@
     
       <category term="生活情感" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB%E6%83%85%E6%84%9F/"/>
     
-    
-      <category term="github" scheme="http://yoursite.com/tags/github/"/>
-    
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
-    
-      <category term="web" scheme="http://yoursite.com/tags/web/"/>
     
   </entry>
   
