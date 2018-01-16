@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-10-26T02:09:45.377Z</updated>
+  <updated>2018-01-16T13:53:32.349Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>摄影入门概论</title>
+    <link href="http://yoursite.com/2018/01/16/%E6%91%84%E5%BD%B1%E5%85%A5%E9%97%A8%E6%A6%82%E8%AE%BA/"/>
+    <id>http://yoursite.com/2018/01/16/摄影入门概论/</id>
+    <published>2018-01-16T13:26:31.000Z</published>
+    <updated>2018-01-16T13:53:32.349Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="前端摄影师码农"><a href="#前端摄影师码农" class="headerlink" title="前端摄影师码农"></a>前端摄影师码农</h1><p>今天是2017学期的倒数5天，有点迷茫,下面分享下我对于光圈,曝光度,亮度大小各个属性值的理解</p>
+<h2 id="光圈大小"><a href="#光圈大小" class="headerlink" title="光圈大小"></a>光圈大小</h2><p>光圈越大，进光亮越大，景深越淡，实用于拍摄人像背景虚化，人物处理的效果;<br>光圈越小,进光亮越小,适用于拍摄景色,天空，远方，效果会太好;<br><img src="/2018/01/16/摄影入门概论/ab1.jpg" alt=""></p>
+<h2 id="快门"><a href="#快门" class="headerlink" title="快门"></a>快门</h2><p>快门开启的时间越长就代表快门速度越慢，进光量就越多,反之则快门越快，进光量就越少<br>快门直接影响照片的亮度<br>不同的快门速度适用不同的场景</p>
+<h2 id="感光度"><a href="#感光度" class="headerlink" title="感光度"></a>感光度</h2><p>主要指照片的亮度 数值越低照片越暗，数值越高照片越亮，噪点就越多<br>尽量ISO调整在100-400之间,<br>总的来说高的曝光度会带来画质的损失</p>
+<h2 id="三者之间的关系"><a href="#三者之间的关系" class="headerlink" title="三者之间的关系"></a>三者之间的关系</h2><p>这三种数值是怎么组合的呢<br>如果想拍摄运动轨迹的效果,就用长快门的组合<br>如果想拍虚化的效果,那就用大光圈的组合<br><a id="more"></a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;前端摄影师码农&quot;&gt;&lt;a href=&quot;#前端摄影师码农&quot; class=&quot;headerlink&quot; title=&quot;前端摄影师码农&quot;&gt;&lt;/a&gt;前端摄影师码农&lt;/h1&gt;&lt;p&gt;今天是2017学期的倒数5天，有点迷茫,下面分享下我对于光圈,曝光度,亮度大小各个属性值的理解&lt;/p&gt;
+&lt;h2 id=&quot;光圈大小&quot;&gt;&lt;a href=&quot;#光圈大小&quot; class=&quot;headerlink&quot; title=&quot;光圈大小&quot;&gt;&lt;/a&gt;光圈大小&lt;/h2&gt;&lt;p&gt;光圈越大，进光亮越大，景深越淡，实用于拍摄人像背景虚化，人物处理的效果;&lt;br&gt;光圈越小,进光亮越小,适用于拍摄景色,天空，远方，效果会太好;&lt;br&gt;&lt;img src=&quot;/2018/01/16/摄影入门概论/ab1.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;快门&quot;&gt;&lt;a href=&quot;#快门&quot; class=&quot;headerlink&quot; title=&quot;快门&quot;&gt;&lt;/a&gt;快门&lt;/h2&gt;&lt;p&gt;快门开启的时间越长就代表快门速度越慢，进光量就越多,反之则快门越快，进光量就越少&lt;br&gt;快门直接影响照片的亮度&lt;br&gt;不同的快门速度适用不同的场景&lt;/p&gt;
+&lt;h2 id=&quot;感光度&quot;&gt;&lt;a href=&quot;#感光度&quot; class=&quot;headerlink&quot; title=&quot;感光度&quot;&gt;&lt;/a&gt;感光度&lt;/h2&gt;&lt;p&gt;主要指照片的亮度 数值越低照片越暗，数值越高照片越亮，噪点就越多&lt;br&gt;尽量ISO调整在100-400之间,&lt;br&gt;总的来说高的曝光度会带来画质的损失&lt;/p&gt;
+&lt;h2 id=&quot;三者之间的关系&quot;&gt;&lt;a href=&quot;#三者之间的关系&quot; class=&quot;headerlink&quot; title=&quot;三者之间的关系&quot;&gt;&lt;/a&gt;三者之间的关系&lt;/h2&gt;&lt;p&gt;这三种数值是怎么组合的呢&lt;br&gt;如果想拍摄运动轨迹的效果,就用长快门的组合&lt;br&gt;如果想拍虚化的效果,那就用大光圈的组合&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>鸡汤</title>
@@ -221,30 +248,6 @@
   </entry>
   
   <entry>
-    <title>一点点的开始</title>
-    <link href="http://yoursite.com/2017/08/08/ab1/"/>
-    <id>http://yoursite.com/2017/08/08/ab1/</id>
-    <published>2017-08-08T14:33:47.000Z</published>
-    <updated>2017-08-09T14:27:06.175Z</updated>
-    
-    <content type="html"><![CDATA[<p> 你必须培养些爱好，不要空洞遥远的目标，而是实在甚至庸俗的吃喝拉撒。<br> 你必须一觉醒来，清楚自己能干什么。去楼下最热闹的面馆去吃早饭，去给窗台上的盆栽浇水，<br> 去追一集刚更新的电视剧，去找一个知心老友唠喷。你必须积攒这些微小的期待和快乐，才不会被遥不可及的梦和无法掌控的爱给拖垮。</p>
- <a id="more"></a>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt; 你必须培养些爱好，不要空洞遥远的目标，而是实在甚至庸俗的吃喝拉撒。&lt;br&gt; 你必须一觉醒来，清楚自己能干什么。去楼下最热闹的面馆去吃早饭，去给窗台上的盆栽浇水，&lt;br&gt; 去追一集刚更新的电视剧，去找一个知心老友唠喷。你必须积攒这些微小的期待和快乐，才不会被遥不可及的梦和无法掌控的爱给拖垮。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="about" scheme="http://yoursite.com/categories/about/"/>
-    
-    
-      <category term="生活情感" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB%E6%83%85%E6%84%9F/"/>
-    
-  </entry>
-  
-  <entry>
     <title>github的分布式系统</title>
     <link href="http://yoursite.com/2017/08/08/github%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F/"/>
     <id>http://yoursite.com/2017/08/08/github的分布式系统/</id>
@@ -281,6 +284,30 @@
       <category term="github" scheme="http://yoursite.com/tags/github/"/>
     
       <category term="git" scheme="http://yoursite.com/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一点点的开始</title>
+    <link href="http://yoursite.com/2017/08/08/ab1/"/>
+    <id>http://yoursite.com/2017/08/08/ab1/</id>
+    <published>2017-08-08T14:33:47.000Z</published>
+    <updated>2017-08-09T14:27:06.175Z</updated>
+    
+    <content type="html"><![CDATA[<p> 你必须培养些爱好，不要空洞遥远的目标，而是实在甚至庸俗的吃喝拉撒。<br> 你必须一觉醒来，清楚自己能干什么。去楼下最热闹的面馆去吃早饭，去给窗台上的盆栽浇水，<br> 去追一集刚更新的电视剧，去找一个知心老友唠喷。你必须积攒这些微小的期待和快乐，才不会被遥不可及的梦和无法掌控的爱给拖垮。</p>
+ <a id="more"></a>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt; 你必须培养些爱好，不要空洞遥远的目标，而是实在甚至庸俗的吃喝拉撒。&lt;br&gt; 你必须一觉醒来，清楚自己能干什么。去楼下最热闹的面馆去吃早饭，去给窗台上的盆栽浇水，&lt;br&gt; 去追一集刚更新的电视剧，去找一个知心老友唠喷。你必须积攒这些微小的期待和快乐，才不会被遥不可及的梦和无法掌控的爱给拖垮。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="about" scheme="http://yoursite.com/categories/about/"/>
+    
+    
+      <category term="生活情感" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB%E6%83%85%E6%84%9F/"/>
     
   </entry>
   

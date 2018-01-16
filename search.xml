@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[摄影入门概论]]></title>
+    <url>%2F2018%2F01%2F16%2F%E6%91%84%E5%BD%B1%E5%85%A5%E9%97%A8%E6%A6%82%E8%AE%BA%2F</url>
+    <content type="text"><![CDATA[前端摄影师码农今天是2017学期的倒数5天，有点迷茫,下面分享下我对于光圈,曝光度,亮度大小各个属性值的理解 光圈大小光圈越大，进光亮越大，景深越淡，实用于拍摄人像背景虚化，人物处理的效果;光圈越小,进光亮越小,适用于拍摄景色,天空，远方，效果会太好; 快门快门开启的时间越长就代表快门速度越慢，进光量就越多,反之则快门越快，进光量就越少快门直接影响照片的亮度不同的快门速度适用不同的场景 感光度主要指照片的亮度 数值越低照片越暗，数值越高照片越亮，噪点就越多尽量ISO调整在100-400之间,总的来说高的曝光度会带来画质的损失 三者之间的关系这三种数值是怎么组合的呢如果想拍摄运动轨迹的效果,就用长快门的组合如果想拍虚化的效果,那就用大光圈的组合]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[鸡汤]]></title>
     <url>%2F2017%2F10%2F26%2F%E9%95%BF%E6%B2%99%E4%B9%8B%E8%A1%8C%20-%20%E5%89%AF%E6%9C%AC%2F</url>
     <content type="text"><![CDATA[看多了视频教程总以为自己会的挺多的，但其实一无所知你现在的责任巨大，有个协会需要你去努力管理，做事还是不太沉稳，说话语速太快，不能详细阐明你的观点，以及引导别人去学习 ###对于以后自己学习的看法1：不要看太多娱乐性的视频。2：多做个一些实用性的视频教学。3：在迷茫中不要忘记提升自己。4：多出去走走不要狭隘了自己的视眼。5:正确的认知自己的感情，既然喜欢就义无反顾网上爬吧 希望每天都是好心情]]></content>
@@ -79,17 +84,6 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[一点点的开始]]></title>
-    <url>%2F2017%2F08%2F08%2Fab1%2F</url>
-    <content type="text"><![CDATA[你必须培养些爱好，不要空洞遥远的目标，而是实在甚至庸俗的吃喝拉撒。 你必须一觉醒来，清楚自己能干什么。去楼下最热闹的面馆去吃早饭，去给窗台上的盆栽浇水， 去追一集刚更新的电视剧，去找一个知心老友唠喷。你必须积攒这些微小的期待和快乐，才不会被遥不可及的梦和无法掌控的爱给拖垮。]]></content>
-      <categories>
-        <category>about</category>
-      </categories>
-      <tags>
-        <tag>生活情感</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[github的分布式系统]]></title>
     <url>%2F2017%2F08%2F08%2Fgithub%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%2F</url>
     <content type="text"><![CDATA[Git是什么？Git是目前世界上最先进的分布式版本控制系统（没有之一）。 git的各种命令工具 1 设置你的邮箱和账号12$ git config --global user.name &quot;Your Name&quot;$ git config --global user.email &quot;email@example.com&quot; 2 创建本地仓库12345678$ mkdir learngit$ cd learngit$ pwd/Users/michael/learngit#通过git init命令把这个目录变成Git可以管理的仓库：$ git initInitialized empty Git repository in /Users/michael/learngit/.git/ 3 ls-ah查看隐藏的目录1ls -ah 4 git status命令可以让我们时刻掌握仓库当前的状态,git diff查看具体修改说明内容123456789$ git status# On branch master# Changes not staged for commit:# (use &quot;git add &lt;file&gt;...&quot; to update what will be committed)# (use &quot;git checkout -- &lt;file&gt;...&quot; to discard changes in working directory)## modified: readme.txt#no changes added to commit (use &quot;git add&quot; and/or &quot;git commit -a&quot;) 5 git add 告诉我们提交修改6 git log 查看历史记录7 git log –pretty=oneline 缩减信息量8 git reset –hard 3628164 回到3622814的版本号]]></content>
@@ -99,6 +93,17 @@
       <tags>
         <tag>github</tag>
         <tag>git</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[一点点的开始]]></title>
+    <url>%2F2017%2F08%2F08%2Fab1%2F</url>
+    <content type="text"><![CDATA[你必须培养些爱好，不要空洞遥远的目标，而是实在甚至庸俗的吃喝拉撒。 你必须一觉醒来，清楚自己能干什么。去楼下最热闹的面馆去吃早饭，去给窗台上的盆栽浇水， 去追一集刚更新的电视剧，去找一个知心老友唠喷。你必须积攒这些微小的期待和快乐，才不会被遥不可及的梦和无法掌控的爱给拖垮。]]></content>
+      <categories>
+        <category>about</category>
+      </categories>
+      <tags>
+        <tag>生活情感</tag>
       </tags>
   </entry>
 </search>
