@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[sublime使用的小知识]]></title>
+    <url>%2F2018%2F01%2F16%2Fsublime%E4%BD%BF%E7%94%A8%E7%9A%84%E5%B0%8F%E7%9F%A5%E8%AF%86%2F</url>
+    <content type="text"><![CDATA[前语：sublime和markdown语法sublime安装软件 1:搜索,ctrl+shift+p打开包管理工具，输入pcip搜索应用安装即可 2:具体的配置在perferences的package.setting的工具 3:Key Bind就是浏览器的预览具体配置 具体文章来自 https://www.jianshu.com/p/1e402922ee32/ 实用的markdown语法 #表示一级标题 ##二级标题 表示引用的内容 ！ 图片为 【】（）链接为图片 * 表示斜体 * 表示粗体 \** 分割线 两端都有的** 列表的显示只需要在文字前加上 - 或 * 即可变为无序列表 有序列表则直接在文字前加1. 2. 3. 符号要和文字之间加上一个字符的空格]]></content>
+      <categories>
+        <category>软件学习</category>
+      </categories>
+  </entry>
+  <entry>
     <title><![CDATA[摄影入门概论]]></title>
     <url>%2F2018%2F01%2F16%2F%E6%91%84%E5%BD%B1%E5%85%A5%E9%97%A8%E6%A6%82%E8%AE%BA%2F</url>
     <content type="text"><![CDATA[前端摄影师码农今天是2017学期的倒数5天，有点迷茫,下面分享下我对于光圈,曝光度,亮度大小各个属性值的理解 光圈大小光圈越大，进光亮越大，景深越淡，实用于拍摄人像背景虚化，人物处理的效果;光圈越小,进光亮越小,适用于拍摄景色,天空，远方，效果会太好; 快门快门开启的时间越长就代表快门速度越慢，进光量就越多,反之则快门越快，进光量就越少快门直接影响照片的亮度不同的快门速度适用不同的场景 感光度主要指照片的亮度 数值越低照片越暗，数值越高照片越亮，噪点就越多尽量ISO调整在100-400之间,总的来说高的曝光度会带来画质的损失 三者之间的关系这三种数值是怎么组合的呢如果想拍摄运动轨迹的效果,就用长快门的组合如果想拍虚化的效果,那就用大光圈的组合]]></content>
+      <categories>
+        <category>摄影知识</category>
+      </categories>
   </entry>
   <entry>
     <title><![CDATA[鸡汤]]></title>
@@ -30,8 +41,8 @@
       </categories>
       <tags>
         <tag>github</tag>
-        <tag>hexo</tag>
         <tag>web</tag>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -55,8 +66,8 @@
       </categories>
       <tags>
         <tag>github</tag>
-        <tag>npm</tag>
         <tag>hexo</tag>
+        <tag>npm</tag>
       </tags>
   </entry>
   <entry>
@@ -79,8 +90,19 @@
       </categories>
       <tags>
         <tag>github</tag>
-        <tag>hexo</tag>
         <tag>web</tag>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[一点点的开始]]></title>
+    <url>%2F2017%2F08%2F08%2Fab1%2F</url>
+    <content type="text"><![CDATA[你必须培养些爱好，不要空洞遥远的目标，而是实在甚至庸俗的吃喝拉撒。 你必须一觉醒来，清楚自己能干什么。去楼下最热闹的面馆去吃早饭，去给窗台上的盆栽浇水， 去追一集刚更新的电视剧，去找一个知心老友唠喷。你必须积攒这些微小的期待和快乐，才不会被遥不可及的梦和无法掌控的爱给拖垮。]]></content>
+      <categories>
+        <category>about</category>
+      </categories>
+      <tags>
+        <tag>生活情感</tag>
       </tags>
   </entry>
   <entry>
@@ -93,17 +115,6 @@
       <tags>
         <tag>github</tag>
         <tag>git</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[一点点的开始]]></title>
-    <url>%2F2017%2F08%2F08%2Fab1%2F</url>
-    <content type="text"><![CDATA[你必须培养些爱好，不要空洞遥远的目标，而是实在甚至庸俗的吃喝拉撒。 你必须一觉醒来，清楚自己能干什么。去楼下最热闹的面馆去吃早饭，去给窗台上的盆栽浇水， 去追一集刚更新的电视剧，去找一个知心老友唠喷。你必须积攒这些微小的期待和快乐，才不会被遥不可及的梦和无法掌控的爱给拖垮。]]></content>
-      <categories>
-        <category>about</category>
-      </categories>
-      <tags>
-        <tag>生活情感</tag>
       </tags>
   </entry>
 </search>

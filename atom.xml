@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-16T13:53:32.349Z</updated>
+  <updated>2018-01-16T15:14:48.769Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,56 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>sublime使用的小知识</title>
+    <link href="http://yoursite.com/2018/01/16/sublime%E4%BD%BF%E7%94%A8%E7%9A%84%E5%B0%8F%E7%9F%A5%E8%AF%86/"/>
+    <id>http://yoursite.com/2018/01/16/sublime使用的小知识/</id>
+    <published>2018-01-16T14:09:25.000Z</published>
+    <updated>2018-01-16T15:14:48.769Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="前语：sublime和markdown语法"><a href="#前语：sublime和markdown语法" class="headerlink" title="前语：sublime和markdown语法"></a>前语：sublime和markdown语法</h4><h2 id="sublime安装软件"><a href="#sublime安装软件" class="headerlink" title="sublime安装软件"></a>sublime安装软件</h2><pre>
+    1:搜索,ctrl+shift+p打开包管理工具，输入pcip搜索应用安装即可
+    2:具体的配置在perferences的package.setting的工具
+    3:Key Bind就是浏览器的预览具体配置
+</pre>
+
+<blockquote>
+<p>具体文章来自 <a href="https://www.jianshu.com/p/1e402922ee32/" target="_blank" rel="external">https://www.jianshu.com/p/1e402922ee32/</a></p>
+</blockquote>
+<h2 id="实用的markdown语法"><a href="#实用的markdown语法" class="headerlink" title="实用的markdown语法"></a>实用的markdown语法</h2><ol>
+<li><p><code>#表示一级标题 ##二级标题</code></p>
+</li>
+<li><blockquote>
+<p>表示引用的内容</p>
+</blockquote>
+</li>
+<li><p>！<a href=""></a> 图片为  【】（）链接为图片</p>
+</li>
+<li><p>* 表示斜体 *<em> 表示粗体  \</em>** 分割线 两端都有的<em>**</em></p>
+</li>
+<li><p>列表的显示只需要在文字前加上 - 或 * 即可变为无序列表</p>
+</li>
+<li><p>有序列表则直接在文字前加1. 2. 3. 符号要和文字之间加上一个字符的空格</p>
+</li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h4 id=&quot;前语：sublime和markdown语法&quot;&gt;&lt;a href=&quot;#前语：sublime和markdown语法&quot; class=&quot;headerlink&quot; title=&quot;前语：sublime和markdown语法&quot;&gt;&lt;/a&gt;前语：sublime和markdown语法&lt;/
+    
+    </summary>
+    
+      <category term="软件学习" scheme="http://yoursite.com/categories/%E8%BD%AF%E4%BB%B6%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>摄影入门概论</title>
     <link href="http://yoursite.com/2018/01/16/%E6%91%84%E5%BD%B1%E5%85%A5%E9%97%A8%E6%A6%82%E8%AE%BA/"/>
     <id>http://yoursite.com/2018/01/16/摄影入门概论/</id>
     <published>2018-01-16T13:26:31.000Z</published>
-    <updated>2018-01-16T13:53:32.349Z</updated>
+    <updated>2018-01-16T14:10:46.980Z</updated>
     
     <content type="html"><![CDATA[<h1 id="前端摄影师码农"><a href="#前端摄影师码农" class="headerlink" title="前端摄影师码农"></a>前端摄影师码农</h1><p>今天是2017学期的倒数5天，有点迷茫,下面分享下我对于光圈,曝光度,亮度大小各个属性值的理解</p>
 <h2 id="光圈大小"><a href="#光圈大小" class="headerlink" title="光圈大小"></a>光圈大小</h2><p>光圈越大，进光亮越大，景深越淡，实用于拍摄人像背景虚化，人物处理的效果;<br>光圈越小,进光亮越小,适用于拍摄景色,天空，远方，效果会太好;<br><img src="/2018/01/16/摄影入门概论/ab1.jpg" alt=""></p>
@@ -38,6 +83,8 @@
 &lt;h2 id=&quot;三者之间的关系&quot;&gt;&lt;a href=&quot;#三者之间的关系&quot; class=&quot;headerlink&quot; title=&quot;三者之间的关系&quot;&gt;&lt;/a&gt;三者之间的关系&lt;/h2&gt;&lt;p&gt;这三种数值是怎么组合的呢&lt;br&gt;如果想拍摄运动轨迹的效果,就用长快门的组合&lt;br&gt;如果想拍虚化的效果,那就用大光圈的组合&lt;br&gt;&lt;/p&gt;
     
     </summary>
+    
+      <category term="摄影知识" scheme="http://yoursite.com/categories/%E6%91%84%E5%BD%B1%E7%9F%A5%E8%AF%86/"/>
     
     
   </entry>
@@ -113,9 +160,9 @@
     
       <category term="github" scheme="http://yoursite.com/tags/github/"/>
     
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
-    
       <category term="web" scheme="http://yoursite.com/tags/web/"/>
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
     
   </entry>
   
@@ -183,9 +230,9 @@
     
       <category term="github" scheme="http://yoursite.com/tags/github/"/>
     
-      <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
-    
       <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
     
   </entry>
   
@@ -241,9 +288,33 @@
     
       <category term="github" scheme="http://yoursite.com/tags/github/"/>
     
+      <category term="web" scheme="http://yoursite.com/tags/web/"/>
+    
       <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
     
-      <category term="web" scheme="http://yoursite.com/tags/web/"/>
+  </entry>
+  
+  <entry>
+    <title>一点点的开始</title>
+    <link href="http://yoursite.com/2017/08/08/ab1/"/>
+    <id>http://yoursite.com/2017/08/08/ab1/</id>
+    <published>2017-08-08T14:33:47.000Z</published>
+    <updated>2017-08-09T14:27:06.175Z</updated>
+    
+    <content type="html"><![CDATA[<p> 你必须培养些爱好，不要空洞遥远的目标，而是实在甚至庸俗的吃喝拉撒。<br> 你必须一觉醒来，清楚自己能干什么。去楼下最热闹的面馆去吃早饭，去给窗台上的盆栽浇水，<br> 去追一集刚更新的电视剧，去找一个知心老友唠喷。你必须积攒这些微小的期待和快乐，才不会被遥不可及的梦和无法掌控的爱给拖垮。</p>
+ <a id="more"></a>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt; 你必须培养些爱好，不要空洞遥远的目标，而是实在甚至庸俗的吃喝拉撒。&lt;br&gt; 你必须一觉醒来，清楚自己能干什么。去楼下最热闹的面馆去吃早饭，去给窗台上的盆栽浇水，&lt;br&gt; 去追一集刚更新的电视剧，去找一个知心老友唠喷。你必须积攒这些微小的期待和快乐，才不会被遥不可及的梦和无法掌控的爱给拖垮。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="about" scheme="http://yoursite.com/categories/about/"/>
+    
+    
+      <category term="生活情感" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB%E6%83%85%E6%84%9F/"/>
     
   </entry>
   
@@ -284,30 +355,6 @@
       <category term="github" scheme="http://yoursite.com/tags/github/"/>
     
       <category term="git" scheme="http://yoursite.com/tags/git/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>一点点的开始</title>
-    <link href="http://yoursite.com/2017/08/08/ab1/"/>
-    <id>http://yoursite.com/2017/08/08/ab1/</id>
-    <published>2017-08-08T14:33:47.000Z</published>
-    <updated>2017-08-09T14:27:06.175Z</updated>
-    
-    <content type="html"><![CDATA[<p> 你必须培养些爱好，不要空洞遥远的目标，而是实在甚至庸俗的吃喝拉撒。<br> 你必须一觉醒来，清楚自己能干什么。去楼下最热闹的面馆去吃早饭，去给窗台上的盆栽浇水，<br> 去追一集刚更新的电视剧，去找一个知心老友唠喷。你必须积攒这些微小的期待和快乐，才不会被遥不可及的梦和无法掌控的爱给拖垮。</p>
- <a id="more"></a>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt; 你必须培养些爱好，不要空洞遥远的目标，而是实在甚至庸俗的吃喝拉撒。&lt;br&gt; 你必须一觉醒来，清楚自己能干什么。去楼下最热闹的面馆去吃早饭，去给窗台上的盆栽浇水，&lt;br&gt; 去追一集刚更新的电视剧，去找一个知心老友唠喷。你必须积攒这些微小的期待和快乐，才不会被遥不可及的梦和无法掌控的爱给拖垮。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="about" scheme="http://yoursite.com/categories/about/"/>
-    
-    
-      <category term="生活情感" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB%E6%83%85%E6%84%9F/"/>
     
   </entry>
   
