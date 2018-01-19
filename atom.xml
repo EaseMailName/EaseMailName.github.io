@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-16T15:14:48.769Z</updated>
+  <updated>2018-01-19T14:40:53.426Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,50 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Bootstrap第一天</title>
+    <link href="http://yoursite.com/2018/01/18/Bootstrap%E7%AC%AC%E4%B8%80%E5%A4%A9/"/>
+    <id>http://yoursite.com/2018/01/18/Bootstrap第一天/</id>
+    <published>2018-01-18T06:12:13.000Z</published>
+    <updated>2018-01-19T14:40:53.426Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Bootstrap介绍"><a href="#Bootstrap介绍" class="headerlink" title="Bootstrap介绍"></a>Bootstrap介绍</h2><blockquote>
+<p>Bootstrap，来自 Twitter，是目前很受欢迎的前端框架。Bootstrap 是基于 HTML、CSS、JavaScript 的，它简洁灵活，使得 Web 开发更加快捷。[1]  它由Twitter的设计师Mark Otto和Jacob Thornton合作开发，是一个CSS/HTML框架。Bootstrap提供了优雅的HTML和CSS规范，它即是由动态CSS语言Less写成。Bootstrap一经推出后颇受欢迎，一直是GitHub上的热门开源项目，包括NASA的MSNBC（微软全国广播公司）的Breaking News都使用了该项目。[2]  国内一些移动开发者较为熟悉的框架，如WeX5前端开源框架等，也是基于Bootstrap源码进行性能优化而来。</p>
+</blockquote>
+<h3 id="Bootstrap的栅格系统"><a href="#Bootstrap的栅格系统" class="headerlink" title="Bootstrap的栅格系统"></a>Bootstrap的栅格系统</h3><p>让我们看看栅格系统是如何在多种环境下工作的</p>
+<ul>
+<li>超小屏幕  适用手机 XS 宽度<code>&lt;<768px;&gt;< code=""></768px;&gt;<></code></li>
+<li>小屏幕    适用平板  SM 宽度<code>&lt;&gt;768px或者&lt;=992px;&gt;</code></li>
+<li>中等屏幕显示器  电脑 MD 宽度<code>&lt;<1200px;&gt;或者>=992px;&gt;</1200px;&gt;或者></code></li>
+<li>大桌面屏幕    电脑  LG 宽度<code>&lt;&gt;1200px</code><a id="more"></a>
+<h3 id="位移列偏移"><a href="#位移列偏移" class="headerlink" title="位移列偏移"></a>位移列偏移</h3>.col-md-offset-*:可以将列申向两端</li>
+</ul>
+<h3 id="列排序"><a href="#列排序" class="headerlink" title="列排序"></a>列排序</h3><p>通过使用 .col.md-push-<em>和.col-md-pull-</em></p>
+<h3 id="标题元素"><a href="#标题元素" class="headerlink" title="标题元素"></a>标题元素<h1-h6></h1-h6></h3><p>副元素<small></small><br>Bootstrap 将全局 font-size 设置为 14px，line-height 设置为 1.428</p>
+<h3 id="各种基本标签"><a href="#各种基本标签" class="headerlink" title="各种基本标签"></a>各种基本标签</h3><p>.lead  通过添加 .lead 类可以让段落突出显示<br>.text-cowercase      首字母大写<br>.text-uppercase      默认<br>删除的文本          <code><del></del></code><br>着重的点           <code><strong></strong></code><br>blockqute         <code>默认引用的样式</code><br>带下下划线的文本         <code>UUU</code></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Bootstrap介绍&quot;&gt;&lt;a href=&quot;#Bootstrap介绍&quot; class=&quot;headerlink&quot; title=&quot;Bootstrap介绍&quot;&gt;&lt;/a&gt;Bootstrap介绍&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;Bootstrap，来自 Twitter，是目前很受欢迎的前端框架。Bootstrap 是基于 HTML、CSS、JavaScript 的，它简洁灵活，使得 Web 开发更加快捷。[1]  它由Twitter的设计师Mark Otto和Jacob Thornton合作开发，是一个CSS/HTML框架。Bootstrap提供了优雅的HTML和CSS规范，它即是由动态CSS语言Less写成。Bootstrap一经推出后颇受欢迎，一直是GitHub上的热门开源项目，包括NASA的MSNBC（微软全国广播公司）的Breaking News都使用了该项目。[2]  国内一些移动开发者较为熟悉的框架，如WeX5前端开源框架等，也是基于Bootstrap源码进行性能优化而来。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;Bootstrap的栅格系统&quot;&gt;&lt;a href=&quot;#Bootstrap的栅格系统&quot; class=&quot;headerlink&quot; title=&quot;Bootstrap的栅格系统&quot;&gt;&lt;/a&gt;Bootstrap的栅格系统&lt;/h3&gt;&lt;p&gt;让我们看看栅格系统是如何在多种环境下工作的&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;超小屏幕  适用手机 XS 宽度&lt;code&gt;&amp;lt;&lt;768px;&amp;gt;&lt; code=&quot;&quot;&gt;&lt;/768px;&amp;gt;&lt;&gt;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;小屏幕    适用平板  SM 宽度&lt;code&gt;&amp;lt;&amp;gt;768px或者&amp;lt;=992px;&amp;gt;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;中等屏幕显示器  电脑 MD 宽度&lt;code&gt;&amp;lt;&lt;1200px;&amp;gt;或者&gt;=992px;&amp;gt;&lt;/1200px;&amp;gt;或者&gt;&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;大桌面屏幕    电脑  LG 宽度&lt;code&gt;&amp;lt;&amp;gt;1200px&lt;/code&gt;&lt;/li&gt;&lt;/ul&gt;
+    
+    </summary>
+    
+      <category term="Boostrape" scheme="http://yoursite.com/categories/Boostrape/"/>
+    
+    
+      <category term="bootstrape" scheme="http://yoursite.com/tags/bootstrape/"/>
+    
+  </entry>
   
   <entry>
     <title>sublime使用的小知识</title>
@@ -160,9 +204,9 @@
     
       <category term="github" scheme="http://yoursite.com/tags/github/"/>
     
-      <category term="web" scheme="http://yoursite.com/tags/web/"/>
-    
       <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="web" scheme="http://yoursite.com/tags/web/"/>
     
   </entry>
   
@@ -230,9 +274,9 @@
     
       <category term="github" scheme="http://yoursite.com/tags/github/"/>
     
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
-    
       <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
     
   </entry>
   
@@ -288,33 +332,9 @@
     
       <category term="github" scheme="http://yoursite.com/tags/github/"/>
     
-      <category term="web" scheme="http://yoursite.com/tags/web/"/>
-    
       <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
     
-  </entry>
-  
-  <entry>
-    <title>一点点的开始</title>
-    <link href="http://yoursite.com/2017/08/08/ab1/"/>
-    <id>http://yoursite.com/2017/08/08/ab1/</id>
-    <published>2017-08-08T14:33:47.000Z</published>
-    <updated>2017-08-09T14:27:06.175Z</updated>
-    
-    <content type="html"><![CDATA[<p> 你必须培养些爱好，不要空洞遥远的目标，而是实在甚至庸俗的吃喝拉撒。<br> 你必须一觉醒来，清楚自己能干什么。去楼下最热闹的面馆去吃早饭，去给窗台上的盆栽浇水，<br> 去追一集刚更新的电视剧，去找一个知心老友唠喷。你必须积攒这些微小的期待和快乐，才不会被遥不可及的梦和无法掌控的爱给拖垮。</p>
- <a id="more"></a>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt; 你必须培养些爱好，不要空洞遥远的目标，而是实在甚至庸俗的吃喝拉撒。&lt;br&gt; 你必须一觉醒来，清楚自己能干什么。去楼下最热闹的面馆去吃早饭，去给窗台上的盆栽浇水，&lt;br&gt; 去追一集刚更新的电视剧，去找一个知心老友唠喷。你必须积攒这些微小的期待和快乐，才不会被遥不可及的梦和无法掌控的爱给拖垮。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="about" scheme="http://yoursite.com/categories/about/"/>
-    
-    
-      <category term="生活情感" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB%E6%83%85%E6%84%9F/"/>
+      <category term="web" scheme="http://yoursite.com/tags/web/"/>
     
   </entry>
   

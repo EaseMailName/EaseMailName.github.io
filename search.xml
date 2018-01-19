@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Bootstrap第一天]]></title>
+    <url>%2F2018%2F01%2F18%2FBootstrap%E7%AC%AC%E4%B8%80%E5%A4%A9%2F</url>
+    <content type="text"><![CDATA[Bootstrap介绍 Bootstrap，来自 Twitter，是目前很受欢迎的前端框架。Bootstrap 是基于 HTML、CSS、JavaScript 的，它简洁灵活，使得 Web 开发更加快捷。[1] 它由Twitter的设计师Mark Otto和Jacob Thornton合作开发，是一个CSS/HTML框架。Bootstrap提供了优雅的HTML和CSS规范，它即是由动态CSS语言Less写成。Bootstrap一经推出后颇受欢迎，一直是GitHub上的热门开源项目，包括NASA的MSNBC（微软全国广播公司）的Breaking News都使用了该项目。[2] 国内一些移动开发者较为熟悉的框架，如WeX5前端开源框架等，也是基于Bootstrap源码进行性能优化而来。 Bootstrap的栅格系统让我们看看栅格系统是如何在多种环境下工作的 超小屏幕 适用手机 XS 宽度&lt;]]></content>
+      <categories>
+        <category>Boostrape</category>
+      </categories>
+      <tags>
+        <tag>bootstrape</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[sublime使用的小知识]]></title>
     <url>%2F2018%2F01%2F16%2Fsublime%E4%BD%BF%E7%94%A8%E7%9A%84%E5%B0%8F%E7%9F%A5%E8%AF%86%2F</url>
     <content type="text"><![CDATA[前语：sublime和markdown语法sublime安装软件 1:搜索,ctrl+shift+p打开包管理工具，输入pcip搜索应用安装即可 2:具体的配置在perferences的package.setting的工具 3:Key Bind就是浏览器的预览具体配置 具体文章来自 https://www.jianshu.com/p/1e402922ee32/ 实用的markdown语法 #表示一级标题 ##二级标题 表示引用的内容 ！ 图片为 【】（）链接为图片 * 表示斜体 * 表示粗体 \** 分割线 两端都有的** 列表的显示只需要在文字前加上 - 或 * 即可变为无序列表 有序列表则直接在文字前加1. 2. 3. 符号要和文字之间加上一个字符的空格]]></content>
@@ -41,8 +52,8 @@
       </categories>
       <tags>
         <tag>github</tag>
-        <tag>web</tag>
         <tag>hexo</tag>
+        <tag>web</tag>
       </tags>
   </entry>
   <entry>
@@ -66,8 +77,8 @@
       </categories>
       <tags>
         <tag>github</tag>
-        <tag>hexo</tag>
         <tag>npm</tag>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -90,19 +101,8 @@
       </categories>
       <tags>
         <tag>github</tag>
-        <tag>web</tag>
         <tag>hexo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[一点点的开始]]></title>
-    <url>%2F2017%2F08%2F08%2Fab1%2F</url>
-    <content type="text"><![CDATA[你必须培养些爱好，不要空洞遥远的目标，而是实在甚至庸俗的吃喝拉撒。 你必须一觉醒来，清楚自己能干什么。去楼下最热闹的面馆去吃早饭，去给窗台上的盆栽浇水， 去追一集刚更新的电视剧，去找一个知心老友唠喷。你必须积攒这些微小的期待和快乐，才不会被遥不可及的梦和无法掌控的爱给拖垮。]]></content>
-      <categories>
-        <category>about</category>
-      </categories>
-      <tags>
-        <tag>生活情感</tag>
+        <tag>web</tag>
       </tags>
   </entry>
   <entry>
