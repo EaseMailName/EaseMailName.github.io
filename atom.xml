@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-19T14:40:53.426Z</updated>
+  <updated>2018-02-01T07:13:07.585Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,106 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>boxshdow的逗号效果</title>
+    <link href="http://yoursite.com/2018/02/01/boxshdow%E7%9A%84%E9%80%97%E5%8F%B7%E6%95%88%E6%9E%9C/"/>
+    <id>http://yoursite.com/2018/02/01/boxshdow的逗号效果/</id>
+    <published>2018-02-01T06:34:02.000Z</published>
+    <updated>2018-02-01T07:13:07.585Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="CSS3-animation-box-shadow渐进实现点点点loading效果实例页面"><a href="#CSS3-animation-box-shadow渐进实现点点点loading效果实例页面" class="headerlink" title="CSS3 animation box-shadow渐进实现点点点loading效果实例页面"></a>CSS3 animation box-shadow渐进实现点点点loading效果实例页面</h3><p>最终效果<br><img src="/2018/02/01/boxshdow的逗号效果/tijiao2.mp4" alt="视频效果"></p>
+<p>先贴上代码<br>！<a href="本地图片测试/box1.png">html代码1</a><br>！<a href="本地图片测试/box2.png">html代码2</a><br>！<a href="本地图片测试/box3.png">html代码3</a></p>
+<p>代码贴上了主要运用什么技术呢？<br>1：currentColor  继承这个层级的颜色；<br>2：animation: dot 4s infinite step-start both;<br>    对应的是动画的函数 ,持续的时间 ,循环的方式 , 规定动画的速度曲线  ,检索或设置对象动画时间之外的状态<br>3:-webkit-keyframes的 webkit是兼容性写法 keyframes是执行的函数<br>4:min-width:最小的宽度  min-height 最小的高度</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;CSS3-animation-box-shadow渐进实现点点点loading效果实例页面&quot;&gt;&lt;a href=&quot;#CSS3-animation-box-shadow渐进实现点点点loading效果实例页面&quot; class=&quot;headerlink&quot; title=&quot;CS
+    
+    </summary>
+    
+      <category term="web" scheme="http://yoursite.com/categories/web/"/>
+    
+    
+      <category term="web" scheme="http://yoursite.com/tags/web/"/>
+    
+      <category term="bos-shdaw" scheme="http://yoursite.com/tags/bos-shdaw/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>这几天的感受</title>
+    <link href="http://yoursite.com/2018/01/30/%E8%BF%99%E5%87%A0%E5%A4%A9%E7%9A%84%E6%84%9F%E5%8F%97/"/>
+    <id>http://yoursite.com/2018/01/30/这几天的感受/</id>
+    <published>2018-01-30T06:43:01.000Z</published>
+    <updated>2018-01-30T06:46:37.908Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="这是我这个星期所学所用的知识"><a href="#这是我这个星期所学所用的知识" class="headerlink" title="这是我这个星期所学所用的知识"></a>这是我这个星期所学所用的知识</h3><h4 id="各种注释的方法"><a href="#各种注释的方法" class="headerlink" title="各种注释的方法"></a>各种注释的方法</h4><p><img src="/2018/01/30/这几天的感受/htmlcode.png" alt="htmlcode"><br><!----></p>
+<h3 id="外内边距的合并"><a href="#外内边距的合并" class="headerlink" title="外内边距的合并"></a>外内边距的合并</h3><p><img src="/2018/01/30/这几天的感受/htmlcode1.png" alt="htmlcode"></p>
+<h3 id="显示隐藏的文字"><a href="#显示隐藏的文字" class="headerlink" title="显示隐藏的文字"></a>显示隐藏的文字</h3><p>文字呈点壮隐藏<br>先 overflow:hidden;<br>然后强制不换行 white-space:nowrap;<br>然后呈省略号显示 text-overflow:ellipsis;</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;这是我这个星期所学所用的知识&quot;&gt;&lt;a href=&quot;#这是我这个星期所学所用的知识&quot; class=&quot;headerlink&quot; title=&quot;这是我这个星期所学所用的知识&quot;&gt;&lt;/a&gt;这是我这个星期所学所用的知识&lt;/h3&gt;&lt;h4 id=&quot;各种注释的方法&quot;&gt;&lt;a href=
+    
+    </summary>
+    
+      <category term="html5+css3" scheme="http://yoursite.com/categories/html5-css3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>1月22日到2日</title>
+    <link href="http://yoursite.com/2018/01/30/1%E6%9C%8822%E6%97%A5%E5%88%B022%E6%97%A5/"/>
+    <id>http://yoursite.com/2018/01/30/1月22日到22日/</id>
+    <published>2018-01-30T06:29:26.000Z</published>
+    <updated>2018-01-30T06:47:15.350Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="这是我这个星期所学所用的知识"><a href="#这是我这个星期所学所用的知识" class="headerlink" title="这是我这个星期所学所用的知识"></a>这是我这个星期所学所用的知识</h3><h4 id="各种注释的方法"><a href="#各种注释的方法" class="headerlink" title="各种注释的方法"></a>各种注释的方法</h4><p>![htmlcode]{本地图片测试/htmlcode.png}</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;这是我这个星期所学所用的知识&quot;&gt;&lt;a href=&quot;#这是我这个星期所学所用的知识&quot; class=&quot;headerlink&quot; title=&quot;这是我这个星期所学所用的知识&quot;&gt;&lt;/a&gt;这是我这个星期所学所用的知识&lt;/h3&gt;&lt;h4 id=&quot;各种注释的方法&quot;&gt;&lt;a href=
+    
+    </summary>
+    
+      <category term="html5+css3" scheme="http://yoursite.com/categories/html5-css3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2018小感想</title>
+    <link href="http://yoursite.com/2018/01/22/2018%E5%B0%8F%E6%84%9F%E6%83%B3/"/>
+    <id>http://yoursite.com/2018/01/22/2018小感想/</id>
+    <published>2018-01-22T14:14:41.000Z</published>
+    <updated>2018-01-22T14:22:00.018Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="感想怀疑人生"><a href="#感想怀疑人生" class="headerlink" title="感想怀疑人生"></a>感想怀疑人生</h2><p>我想有目标是好事但是不要一次有多个目标，这样想把他做好做大都是十分难得</p>
+<p>一心不能二用，别人不想知道的事你也不需要给他人建议</p>
+<p>你无须给别人过多的期待，无须给别人承诺，轻易承诺的代价你偿还不起</p>
+<p>多向前辈学习进步，多看书，多与人交流，多出去看看，世界很大</p>
+<p>有什么想说想做先思考再实行</p>
+<p>再好的朋友关系有一天不再联系见面多会尴尬</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;感想怀疑人生&quot;&gt;&lt;a href=&quot;#感想怀疑人生&quot; class=&quot;headerlink&quot; title=&quot;感想怀疑人生&quot;&gt;&lt;/a&gt;感想怀疑人生&lt;/h2&gt;&lt;p&gt;我想有目标是好事但是不要一次有多个目标，这样想把他做好做大都是十分难得&lt;/p&gt;
+&lt;p&gt;一心不能二用，别人不想
+    
+    </summary>
+    
+      <category term="生活" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="生活情感" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB%E6%83%85%E6%84%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>Bootstrap第一天</title>
@@ -202,11 +302,11 @@
       <category term="生活情感" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB%E6%83%85%E6%84%9F/"/>
     
     
+      <category term="web" scheme="http://yoursite.com/tags/web/"/>
+    
       <category term="github" scheme="http://yoursite.com/tags/github/"/>
     
       <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
-    
-      <category term="web" scheme="http://yoursite.com/tags/web/"/>
     
   </entry>
   
@@ -330,11 +430,11 @@
       <category term="web前端" scheme="http://yoursite.com/categories/web%E5%89%8D%E7%AB%AF/"/>
     
     
+      <category term="web" scheme="http://yoursite.com/tags/web/"/>
+    
       <category term="github" scheme="http://yoursite.com/tags/github/"/>
     
       <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
-    
-      <category term="web" scheme="http://yoursite.com/tags/web/"/>
     
   </entry>
   

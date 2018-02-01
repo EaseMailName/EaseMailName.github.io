@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[boxshdow的逗号效果]]></title>
+    <url>%2F2018%2F02%2F01%2Fboxshdow%E7%9A%84%E9%80%97%E5%8F%B7%E6%95%88%E6%9E%9C%2F</url>
+    <content type="text"><![CDATA[CSS3 animation box-shadow渐进实现点点点loading效果实例页面最终效果 先贴上代码！html代码1！html代码2！html代码3 代码贴上了主要运用什么技术呢？1：currentColor 继承这个层级的颜色；2：animation: dot 4s infinite step-start both; 对应的是动画的函数 ,持续的时间 ,循环的方式 , 规定动画的速度曲线 ,检索或设置对象动画时间之外的状态3:-webkit-keyframes的 webkit是兼容性写法 keyframes是执行的函数4:min-width:最小的宽度 min-height 最小的高度]]></content>
+      <categories>
+        <category>web</category>
+      </categories>
+      <tags>
+        <tag>web</tag>
+        <tag>bos-shdaw</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[这几天的感受]]></title>
+    <url>%2F2018%2F01%2F30%2F%E8%BF%99%E5%87%A0%E5%A4%A9%E7%9A%84%E6%84%9F%E5%8F%97%2F</url>
+    <content type="text"><![CDATA[这是我这个星期所学所用的知识各种注释的方法 外内边距的合并 显示隐藏的文字文字呈点壮隐藏先 overflow:hidden;然后强制不换行 white-space:nowrap;然后呈省略号显示 text-overflow:ellipsis;]]></content>
+      <categories>
+        <category>html5+css3</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[1月22日到2日]]></title>
+    <url>%2F2018%2F01%2F30%2F1%E6%9C%8822%E6%97%A5%E5%88%B022%E6%97%A5%2F</url>
+    <content type="text"><![CDATA[这是我这个星期所学所用的知识各种注释的方法![htmlcode]{本地图片测试/htmlcode.png}]]></content>
+      <categories>
+        <category>html5+css3</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[2018小感想]]></title>
+    <url>%2F2018%2F01%2F22%2F2018%E5%B0%8F%E6%84%9F%E6%83%B3%2F</url>
+    <content type="text"><![CDATA[感想怀疑人生我想有目标是好事但是不要一次有多个目标，这样想把他做好做大都是十分难得 一心不能二用，别人不想知道的事你也不需要给他人建议 你无须给别人过多的期待，无须给别人承诺，轻易承诺的代价你偿还不起 多向前辈学习进步，多看书，多与人交流，多出去看看，世界很大 有什么想说想做先思考再实行 再好的朋友关系有一天不再联系见面多会尴尬]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>生活情感</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Bootstrap第一天]]></title>
     <url>%2F2018%2F01%2F18%2FBootstrap%E7%AC%AC%E4%B8%80%E5%A4%A9%2F</url>
     <content type="text"><![CDATA[Bootstrap介绍 Bootstrap，来自 Twitter，是目前很受欢迎的前端框架。Bootstrap 是基于 HTML、CSS、JavaScript 的，它简洁灵活，使得 Web 开发更加快捷。[1] 它由Twitter的设计师Mark Otto和Jacob Thornton合作开发，是一个CSS/HTML框架。Bootstrap提供了优雅的HTML和CSS规范，它即是由动态CSS语言Less写成。Bootstrap一经推出后颇受欢迎，一直是GitHub上的热门开源项目，包括NASA的MSNBC（微软全国广播公司）的Breaking News都使用了该项目。[2] 国内一些移动开发者较为熟悉的框架，如WeX5前端开源框架等，也是基于Bootstrap源码进行性能优化而来。 Bootstrap的栅格系统让我们看看栅格系统是如何在多种环境下工作的 超小屏幕 适用手机 XS 宽度&lt;]]></content>
@@ -51,9 +90,9 @@
         <category>生活情感</category>
       </categories>
       <tags>
+        <tag>web</tag>
         <tag>github</tag>
         <tag>hexo</tag>
-        <tag>web</tag>
       </tags>
   </entry>
   <entry>
@@ -100,9 +139,9 @@
         <category>web前端</category>
       </categories>
       <tags>
+        <tag>web</tag>
         <tag>github</tag>
         <tag>hexo</tag>
-        <tag>web</tag>
       </tags>
   </entry>
   <entry>
