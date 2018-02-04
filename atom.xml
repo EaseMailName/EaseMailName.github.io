@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-02-01T07:13:07.585Z</updated>
+  <updated>2018-02-04T15:19:36.997Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,29 +16,23 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>boxshdow的逗号效果</title>
-    <link href="http://yoursite.com/2018/02/01/boxshdow%E7%9A%84%E9%80%97%E5%8F%B7%E6%95%88%E6%9E%9C/"/>
-    <id>http://yoursite.com/2018/02/01/boxshdow的逗号效果/</id>
-    <published>2018-02-01T06:34:02.000Z</published>
-    <updated>2018-02-01T07:13:07.585Z</updated>
+    <title>box-shadow的逗号效果2</title>
+    <link href="http://yoursite.com/2018/02/04/box-shadow%E7%9A%84%E9%80%97%E5%8F%B7%E6%95%88%E6%9E%9C2/"/>
+    <id>http://yoursite.com/2018/02/04/box-shadow的逗号效果2/</id>
+    <published>2018-02-04T14:09:51.000Z</published>
+    <updated>2018-02-04T15:19:36.997Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="CSS3-animation-box-shadow渐进实现点点点loading效果实例页面"><a href="#CSS3-animation-box-shadow渐进实现点点点loading效果实例页面" class="headerlink" title="CSS3 animation box-shadow渐进实现点点点loading效果实例页面"></a>CSS3 animation box-shadow渐进实现点点点loading效果实例页面</h3><p>最终效果<br><img src="/2018/02/01/boxshdow的逗号效果/tijiao2.mp4" alt="视频效果"></p>
-<p>先贴上代码<br>！<a href="本地图片测试/box1.png">html代码1</a><br>！<a href="本地图片测试/box2.png">html代码2</a><br>！<a href="本地图片测试/box3.png">html代码3</a></p>
-<p>代码贴上了主要运用什么技术呢？<br>1：currentColor  继承这个层级的颜色；<br>2：animation: dot 4s infinite step-start both;<br>    对应的是动画的函数 ,持续的时间 ,循环的方式 , 规定动画的速度曲线  ,检索或设置对象动画时间之外的状态<br>3:-webkit-keyframes的 webkit是兼容性写法 keyframes是执行的函数<br>4:min-width:最小的宽度  min-height 最小的高度</p>
+    <content type="html"><![CDATA[<h3 id="逗号效果的使用视频"><a href="#逗号效果的使用视频" class="headerlink" title="逗号效果的使用视频"></a>逗号效果的使用视频</h3><p>先看看这次视频的效果视频;<br><img src="/2018/02/04/box-shadow的逗号效果2/tijiao2.mp4" alt=""><br>主要的样式代码<br><img src="/2018/02/04/box-shadow的逗号效果2/box1.png" alt=""><br>主要的keyframes关键帧代码<br><img src="/2018/02/04/box-shadow的逗号效果2/box2.png" alt=""><br>html的所有标记<br><img src="/2018/02/04/box-shadow的逗号效果2/box3.png" alt=""></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;CSS3-animation-box-shadow渐进实现点点点loading效果实例页面&quot;&gt;&lt;a href=&quot;#CSS3-animation-box-shadow渐进实现点点点loading效果实例页面&quot; class=&quot;headerlink&quot; title=&quot;CS
+      &lt;h3 id=&quot;逗号效果的使用视频&quot;&gt;&lt;a href=&quot;#逗号效果的使用视频&quot; class=&quot;headerlink&quot; title=&quot;逗号效果的使用视频&quot;&gt;&lt;/a&gt;逗号效果的使用视频&lt;/h3&gt;&lt;p&gt;先看看这次视频的效果视频;&lt;br&gt;&lt;img src=&quot;/2018/02/04/box
     
     </summary>
     
-      <category term="web" scheme="http://yoursite.com/categories/web/"/>
+      <category term="前端开发" scheme="http://yoursite.com/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
     
-    
-      <category term="web" scheme="http://yoursite.com/tags/web/"/>
-    
-      <category term="bos-shdaw" scheme="http://yoursite.com/tags/bos-shdaw/"/>
     
   </entry>
   
@@ -302,11 +296,11 @@
       <category term="生活情感" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB%E6%83%85%E6%84%9F/"/>
     
     
-      <category term="web" scheme="http://yoursite.com/tags/web/"/>
-    
       <category term="github" scheme="http://yoursite.com/tags/github/"/>
     
       <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="web" scheme="http://yoursite.com/tags/web/"/>
     
   </entry>
   
@@ -430,11 +424,11 @@
       <category term="web前端" scheme="http://yoursite.com/categories/web%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="web" scheme="http://yoursite.com/tags/web/"/>
-    
       <category term="github" scheme="http://yoursite.com/tags/github/"/>
     
       <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="web" scheme="http://yoursite.com/tags/web/"/>
     
   </entry>
   
