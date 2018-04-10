@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title></title>
+    <url>%2F2018%2F04%2F10%2Fvue.js%2F</url>
+    <content type="text"><![CDATA[vue.js的内容 Vue (读音 /vjuː/，类似于 view) 是一套用于构建用户界面的渐进式框架。与其它大型框架不同的是，Vue 被设计为可以自底向上逐层应用。Vue 的核心库只关注视图层，不仅易于上手，还便于与第三方库或既有项目整合。 今天学的几个命令行工具 v-for 相当于js的for循环 v-if 相当于js的判断语句 v-model 表单验证的相互性 具体的内容 ！[这是我的截图]（本地测试图片/vue.png） ##第二个内容就是v-on:跟事件就是vue的点击事件也比较常用，不过常用的js调用用methods！[这是我的截图]（本地测试图片/vue2.png） ##最让我有麻烦的是这个vue的组件的编写！这是我的截图3第一个定义组件的名称，下面就是绑定事件吧]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[今天完成的任务]]></title>
     <url>%2F2018%2F03%2F29%2F%E4%BB%8A%E5%A4%A9%E5%AE%8C%E6%88%90%E7%9A%84%E4%BB%BB%E5%8A%A1%2F</url>
     <content type="text"><![CDATA[任务这两天做了自己自己一直不敢尝试的事情。完成了一个婚庆视屏的剪辑以及分享了这段时间的学习过程。按照以前的心路进程走下去吧。 接下来可以做更多的事情加油加油！！]]></content>
@@ -25,19 +30,19 @@
       </categories>
   </entry>
   <entry>
-    <title><![CDATA[这几天的感受]]></title>
-    <url>%2F2018%2F01%2F30%2F%E8%BF%99%E5%87%A0%E5%A4%A9%E7%9A%84%E6%84%9F%E5%8F%97%2F</url>
-    <content type="text"><![CDATA[这是我这个星期所学所用的知识各种注释的方法 外内边距的合并 显示隐藏的文字文字呈点壮隐藏先 overflow:hidden;然后强制不换行 white-space:nowrap;然后呈省略号显示 text-overflow:ellipsis;]]></content>
-      <categories>
-        <category>html5+css3</category>
-      </categories>
-  </entry>
-  <entry>
     <title><![CDATA[一直的毛病]]></title>
     <url>%2F2018%2F01%2F30%2F%E6%AF%9B%E7%97%85%2F</url>
     <content type="text"><![CDATA[最大的毛病容易忘事，记性不好做事有条不紊，又不缺乏激情实数难摊]]></content>
       <categories>
         <category>生活</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[这几天的感受]]></title>
+    <url>%2F2018%2F01%2F30%2F%E8%BF%99%E5%87%A0%E5%A4%A9%E7%9A%84%E6%84%9F%E5%8F%97%2F</url>
+    <content type="text"><![CDATA[这是我这个星期所学所用的知识各种注释的方法 外内边距的合并 显示隐藏的文字文字呈点壮隐藏先 overflow:hidden;然后强制不换行 white-space:nowrap;然后呈省略号显示 text-overflow:ellipsis;]]></content>
+      <categories>
+        <category>html5+css3</category>
       </categories>
   </entry>
   <entry>
@@ -84,6 +89,14 @@
     <content type="text"><![CDATA[前端摄影师码农今天是2017学期的倒数5天，有点迷茫,下面分享下我对于光圈,曝光度,亮度大小各个属性值的理解 光圈大小光圈越大，进光亮越大，景深越淡，实用于拍摄人像背景虚化，人物处理的效果;光圈越小,进光亮越小,适用于拍摄景色,天空，远方，效果会太好; 快门快门开启的时间越长就代表快门速度越慢，进光量就越多,反之则快门越快，进光量就越少快门直接影响照片的亮度不同的快门速度适用不同的场景 感光度主要指照片的亮度 数值越低照片越暗，数值越高照片越亮，噪点就越多尽量ISO调整在100-400之间,总的来说高的曝光度会带来画质的损失 三者之间的关系这三种数值是怎么组合的呢如果想拍摄运动轨迹的效果,就用长快门的组合如果想拍虚化的效果,那就用大光圈的组合]]></content>
       <categories>
         <category>摄影知识</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[摄影入门概论]]></title>
+    <url>%2F2018%2F01%2F16%2F%E8%AE%A8%E5%A5%BD%E5%9E%8B%E4%BA%BA%E6%A0%BC%2F</url>
+    <content type="text"><![CDATA[讨好型人格做事总是考虑别人的感受。。。从不为自己考虑。。。做事也从来没有自己的原则跟底线。别人就一直去触碰自己的底线。到最后让大家有一种自己很好欺负的感觉。最后让大家觉得我做什么都理所应当。不敢表达出自己真实的想法，不敢表现出自己愤怒的想法 看了奇葩大会，发现我也是这种讨好型人格的人,不够自信强大，太在乎别人的想法。没想到天才作家最大的想法是发脾气；你吸引的人永远不就是你真正欣赏的人，真正欣赏的人永远欣赏的是你骄傲的样子，而不是你故作谦卑和讨喜的样子。 来来来最后来一句鸡汤 愧疚是最大的负能量 任性是最大的美德]]></content>
+      <categories>
+        <category>生活</category>
       </categories>
   </entry>
   <entry>
@@ -135,8 +148,8 @@
         <category>hexo</category>
       </categories>
       <tags>
-        <tag>github</tag>
         <tag>npm</tag>
+        <tag>github</tag>
         <tag>hexo</tag>
       </tags>
   </entry>

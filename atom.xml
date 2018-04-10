@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-03-29T11:22:43.714Z</updated>
+  <updated>2018-04-10T13:21:55.716Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2018/04/10/vue.js/"/>
+    <id>http://yoursite.com/2018/04/10/vue.js/</id>
+    <published>2018-04-10T13:03:01.016Z</published>
+    <updated>2018-04-10T13:21:55.716Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="vue-js的内容"><a href="#vue-js的内容" class="headerlink" title="vue.js的内容"></a>vue.js的内容</h2><blockquote>
+<p>Vue (读音 /vjuː/，类似于 view) 是一套用于构建用户界面的渐进式框架。与其它大型框架不同的是，Vue 被设计为可以自底向上逐层应用。Vue 的核心库只关注视图层，不仅易于上手，还便于与第三方库或既有项目整合。</p>
+</blockquote>
+<ul>
+<li>今天学的几个命令行工具</li>
+<li>v-for <code>相当于js的for循环</code></li>
+<li>v-if   <code>相当于js的判断语句</code></li>
+<li>v-model  <code>表单验证的相互性</code></li>
+</ul>
+<p>具体的内容</p>
+<p>！[这是我的截图]（本地测试图片/vue.png）</p>
+<p>##第二个内容就是v-on:跟事件<br>就是vue的点击事件也比较常用，不过常用的js调用用methods<br>！[这是我的截图]（本地测试图片/vue2.png）</p>
+<p>##最让我有麻烦的是这个vue的组件的编写<br>！<a href="本地测试图片/vue3.png">这是我的截图3</a><br>第一个定义组件的名称，下面就是绑定事件吧</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;vue-js的内容&quot;&gt;&lt;a href=&quot;#vue-js的内容&quot; class=&quot;headerlink&quot; title=&quot;vue.js的内容&quot;&gt;&lt;/a&gt;vue.js的内容&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;Vue (读音 /vjuː/，类似于 view) 是一套用
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>今天完成的任务</title>
@@ -90,6 +122,28 @@
   </entry>
   
   <entry>
+    <title>一直的毛病</title>
+    <link href="http://yoursite.com/2018/01/30/%E6%AF%9B%E7%97%85/"/>
+    <id>http://yoursite.com/2018/01/30/毛病/</id>
+    <published>2018-01-30T06:43:01.000Z</published>
+    <updated>2018-03-29T11:20:01.869Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="最大的毛病容易忘事，记性不好"><a href="#最大的毛病容易忘事，记性不好" class="headerlink" title="最大的毛病容易忘事，记性不好"></a>最大的毛病容易忘事，记性不好</h3><p>做事有条不紊，又不缺乏激情实数难摊</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;最大的毛病容易忘事，记性不好&quot;&gt;&lt;a href=&quot;#最大的毛病容易忘事，记性不好&quot; class=&quot;headerlink&quot; title=&quot;最大的毛病容易忘事，记性不好&quot;&gt;&lt;/a&gt;最大的毛病容易忘事，记性不好&lt;/h3&gt;&lt;p&gt;做事有条不紊，又不缺乏激情实数难摊&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="生活" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>这几天的感受</title>
     <link href="http://yoursite.com/2018/01/30/%E8%BF%99%E5%87%A0%E5%A4%A9%E7%9A%84%E6%84%9F%E5%8F%97/"/>
     <id>http://yoursite.com/2018/01/30/这几天的感受/</id>
@@ -108,28 +162,6 @@
     </summary>
     
       <category term="html5+css3" scheme="http://yoursite.com/categories/html5-css3/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>一直的毛病</title>
-    <link href="http://yoursite.com/2018/01/30/%E6%AF%9B%E7%97%85/"/>
-    <id>http://yoursite.com/2018/01/30/毛病/</id>
-    <published>2018-01-30T06:43:01.000Z</published>
-    <updated>2018-03-25T14:27:17.520Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="最大的毛病容易忘事，记性不好"><a href="#最大的毛病容易忘事，记性不好" class="headerlink" title="最大的毛病容易忘事，记性不好"></a>最大的毛病容易忘事，记性不好</h3><p>做事有条不紊，又不缺乏激情实数难摊</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;最大的毛病容易忘事，记性不好&quot;&gt;&lt;a href=&quot;#最大的毛病容易忘事，记性不好&quot; class=&quot;headerlink&quot; title=&quot;最大的毛病容易忘事，记性不好&quot;&gt;&lt;/a&gt;最大的毛病容易忘事，记性不好&lt;/h3&gt;&lt;p&gt;做事有条不紊，又不缺乏激情实数难摊&lt;/p&gt;
-
-    
-    </summary>
-    
-      <category term="生活" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
   </entry>
@@ -278,7 +310,7 @@
     <link href="http://yoursite.com/2018/01/16/%E6%91%84%E5%BD%B1%E5%85%A5%E9%97%A8%E6%A6%82%E8%AE%BA/"/>
     <id>http://yoursite.com/2018/01/16/摄影入门概论/</id>
     <published>2018-01-16T13:26:31.000Z</published>
-    <updated>2018-01-16T14:10:46.980Z</updated>
+    <updated>2018-03-29T11:18:07.188Z</updated>
     
     <content type="html"><![CDATA[<h1 id="前端摄影师码农"><a href="#前端摄影师码农" class="headerlink" title="前端摄影师码农"></a>前端摄影师码农</h1><p>今天是2017学期的倒数5天，有点迷茫,下面分享下我对于光圈,曝光度,亮度大小各个属性值的理解</p>
 <h2 id="光圈大小"><a href="#光圈大小" class="headerlink" title="光圈大小"></a>光圈大小</h2><p>光圈越大，进光亮越大，景深越淡，实用于拍摄人像背景虚化，人物处理的效果;<br>光圈越小,进光亮越小,适用于拍摄景色,天空，远方，效果会太好;<br><img src="/2018/01/16/摄影入门概论/ab1.jpg" alt=""></p>
@@ -298,6 +330,31 @@
     </summary>
     
       <category term="摄影知识" scheme="http://yoursite.com/categories/%E6%91%84%E5%BD%B1%E7%9F%A5%E8%AF%86/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>摄影入门概论</title>
+    <link href="http://yoursite.com/2018/01/16/%E8%AE%A8%E5%A5%BD%E5%9E%8B%E4%BA%BA%E6%A0%BC/"/>
+    <id>http://yoursite.com/2018/01/16/讨好型人格/</id>
+    <published>2018-01-16T13:26:31.000Z</published>
+    <updated>2018-04-05T12:36:57.264Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="讨好型人格"><a href="#讨好型人格" class="headerlink" title="讨好型人格"></a>讨好型人格</h3><p>做事总是考虑别人的感受。。。从不为自己考虑。。。做事也从来没有自己的原则跟底线。别人就一直去触碰自己的底线。到最后让大家有一种自己很好欺负的感觉。最后让大家觉得我做什么都理所应当。<br>不敢表达出自己真实的想法，不敢表现出自己愤怒的想法</p>
+<p>看了奇葩大会，发现我也是这种讨好型人格的人,不够自信强大，太在乎别人的想法。<br>没想到天才作家最大的想法是发脾气；<br>你吸引的人永远不就是你真正欣赏的人，真正欣赏的人永远欣赏的是你骄傲的样子，而不是你故作谦卑和讨喜的样子。</p>
+<blockquote>
+<p>来来来最后来一句鸡汤 愧疚是最大的负能量 任性是最大的美德</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;讨好型人格&quot;&gt;&lt;a href=&quot;#讨好型人格&quot; class=&quot;headerlink&quot; title=&quot;讨好型人格&quot;&gt;&lt;/a&gt;讨好型人格&lt;/h3&gt;&lt;p&gt;做事总是考虑别人的感受。。。从不为自己考虑。。。做事也从来没有自己的原则跟底线。别人就一直去触碰自己的底线。到最后让
+    
+    </summary>
+    
+      <category term="生活" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
   </entry>
@@ -441,9 +498,9 @@
       <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
     
     
-      <category term="github" scheme="http://yoursite.com/tags/github/"/>
-    
       <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
+    
+      <category term="github" scheme="http://yoursite.com/tags/github/"/>
     
       <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
     
